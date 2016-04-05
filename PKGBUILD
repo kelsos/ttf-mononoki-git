@@ -1,5 +1,5 @@
 pkgname=ttf-mononoki-git
-pkgver=r59.0be5d9d
+pkgver=r62.1a675f8
 pkgrel=1
 pkgdesc="a font for programming and code review"
 arch=(any)
